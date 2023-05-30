@@ -1,0 +1,17 @@
+.icon {
+  width: 20px;
+  height: 20px;
+}
+.Search-icon {
+  margin-left: auto;
+  position: relative;
+  top: -60px;
+  right: -15px;
+  display: block;
+  border-style: solid;
+  width: 30px;
+  height: 35px;
+  border-color: #cbd5e1;
+  border-left: none;
+  border-width: 1px;
+}
